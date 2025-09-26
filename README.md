@@ -50,14 +50,17 @@ project-root/
 ├── library_management.sqlite          # SQLite database (auto-created)
 ├── README.md                          # Documentation
 
----
 
 
-## 📊 Example Outputs
-- Schema overview of all tables  
-- Sample data with **Authors, Books, and Members**  
-- Interactive widgets for user operations  
-- Statistics dashboard with key insights  
+📊 Example Outputs
+
+Schema overview of all tables
+
+Sample data with Authors, Books, and Members
+
+Interactive widgets for user operations
+
+Statistics dashboard with key insights
 
 ---
 
