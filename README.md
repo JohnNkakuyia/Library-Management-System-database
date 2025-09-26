@@ -50,6 +50,8 @@ project-root/
 ├── library_management.sqlite          # SQLite database (auto-created)
 ├── README.md                          # Documentation
 
+```
+
 
 
 ## 📊 Example Outputs
