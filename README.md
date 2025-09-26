@@ -52,6 +52,8 @@ project-root/
 
 
 
+
+
 📊 Example Outputs
 
 Schema overview of all tables
