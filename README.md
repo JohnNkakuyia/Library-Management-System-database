@@ -44,13 +44,12 @@ cd library_management_system
 
   ## 📂 Project Structure
 
-  ```plaintext
+```plaintext
 project-root/
 ├── library_management_system.ipynb   # Main notebook
 ├── library_management.sqlite          # SQLite database (auto-created)
 ├── README.md                          # Documentation
 
-```
 
 
 
